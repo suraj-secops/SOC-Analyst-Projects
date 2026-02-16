@@ -5,7 +5,6 @@ Analyze network traffic using Wireshark to identify unusual DNS, HTTP, and TLS c
 
 ## Tools Used
 - Wireshark
-- NetworkMiner
 - GitHub
 
 ## Investigation Summary
