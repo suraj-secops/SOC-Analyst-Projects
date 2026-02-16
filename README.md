@@ -1,4 +1,4 @@
-# Project 7 – Network Traffic Monitoring (SOC Analysis)
+# Project – Network Traffic Monitoring (SOC Analysis)
 
 ## Objective
 Analyze network traffic using Wireshark to identify unusual DNS, HTTP, and TLS communication patterns.
