@@ -15,14 +15,3 @@ src_ip : 0.0.0.0
 src ip : 10.6.13.3
 src ip : 10.6.13.129
 src ip : 10.6.13.133 most talked with external IP 83.137.149.15 packets(35,485) Bytes(34MB)
-
-
-| Your Notes About             | Put Under Heading          |
-| ---------------------------- | -------------------------- |
-| busiest IP 10.6.13.133       | Environment and Scope      |
-| filters you used             | Investigation Methodology  |
-| footprintdns domains         | DNS Analysis Findings      |
-| normal HTTP traffic          | HTTP Analysis Findings     |
-| client hello / cipher change | TLS Communication Findings |
-| IP + domains list            | Indicators of Compromise   |
-| timestamps                   | Timeline                   |
