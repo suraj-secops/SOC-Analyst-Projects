@@ -1,7 +1,7 @@
 # Project – Network Traffic Monitoring (SOC Analysis)
 
 ## Objective
-Analyze network traffic using Wireshark to identify unusual DNS, HTTPS,TLS communication patterns.
+Analyze network traffic using Wireshark to identify unusual DNS, HTTP, TLS communication patterns.
 
 ## Tools Used
 - Wireshark
@@ -10,7 +10,7 @@ Analyze network traffic using Wireshark to identify unusual DNS, HTTPS,TLS commu
 ## Investigation Summary
 - Identified most active host: 10.6.13.133
 - Observed DNS queries to uncommon footprintdns domains
-- HTTPS traffic mainly contained normal Windows activity
+- HTTP traffic mainly contained normal Windows activity
 - TLS Client Hello packets confirmed encrypted communication attempts
 
 ## Key Findings
